@@ -6,18 +6,17 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=666wcy&show_icons=true)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=666wcy&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666wcy)](wcyhttps://github.com/anuraghazra/github-readme-stats)
 
 
 
-### 我的仓库
+### 推荐仓库
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=new_anime_rss)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=seach_photo-telegram-bot-heroku)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=qbittorent_rclone_upload)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=seach_photo-telegram-bot-heroku)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=new_anime_rss)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=qbittorent_rclone_upload)]()
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666wcy)](wcyhttps://github.com/anuraghazra/github-readme-stats)
+
+
+
+
