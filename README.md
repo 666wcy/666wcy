@@ -6,11 +6,11 @@
 ### 关于我
 
 - 🤔 &nbsp; Python小子，爬虫、自动化，不执著于深度钻研，只致力于解决兴趣问题。
-- 🎓  Shell脚本搬运小能手，有轮子绝不自己造
+- 🎓&nbsp;  Shell脚本搬运小能手，有轮子绝不自己造
 - 🌱 &nbsp; 二次元中度患者，致力于BD收集和新番自动下载
-- 🔭 网盘类应用重度使用者，OD、GD爱好者
-- 📚 Markdown初学者，观摩大佬玩出骚操作(等着copy)
-- 👯 Heroku白嫖佬，兴趣是在Heroku搭各种东西
+- 🔭  网盘类应用重度使用者，OD、GD爱好者
+- 📚  Markdown初学者，观摩大佬玩出骚操作(等着copy)
+- 👯  Heroku白嫖佬，兴趣是在Heroku搭各种东西
 - 📫 欢迎访问我的博客:[Ben's Blog](weinb.top)
 
 ### 我的 Github
