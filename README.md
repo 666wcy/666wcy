@@ -23,7 +23,7 @@
 
 ### 推荐仓库
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=seach_photo-telegram-bot-heroku)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=new_anime_rss)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=qbittorent_rclone_upload)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=search_photo-telegram-bot-heroku)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=new_anime_rss)]()[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=666wcy&repo=qbittorent_rclone_upload)]()
 
 
 
