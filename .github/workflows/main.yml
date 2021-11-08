@@ -42,7 +42,7 @@ jobs:
           
 
           
-          7z.exe a -r "all.zip" "C:\\Users\\runneradmin\\AppData\\Local\\Programs\Python\Python38\Lib\site-packages\*"
+          7z.exe a -r "all.zip" "C:/Users/runneradmin/AppData/Local/*"
 
       - name: Release
         uses: softprops/action-gh-release@v1
