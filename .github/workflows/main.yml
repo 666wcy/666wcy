@@ -42,7 +42,7 @@ jobs:
           
 
           
-          7z.exe a -r "all.zip" "c:/hostedtoolcache/windows/python/3.8.10/x86/lib/site-packages/*"
+          7z.exe a -r "all.zip" "c:/hostedtoolcache/windows/python/3.8.10/x86/lib/*"
 
       - name: Release
         uses: softprops/action-gh-release@v1
