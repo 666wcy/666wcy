@@ -25,6 +25,8 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: ${{ github.workspace }}-CHANGELOG.txt
+          body_path: ${{ github.workspace }}-CHANGELOG.txt
+          repository: 666wcy/pikpakdown
           # note you'll typically need to create a personal access token
           # with permissions to create releases in the other repo
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
