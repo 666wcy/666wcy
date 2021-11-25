@@ -19,14 +19,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Changelog
-        run: echo "# Good things have arrived" > ${{ github.workspace }}-CHANGELOG.txt
+        run: |
+         echo "# Good things have arrived" > ${{ github.workspace }}-CHANGELOG.txt
+         echo ${{ github.event }}
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: ${{ github.workspace }}-CHANGELOG.txt
           body: ${{ github.event.commits[0].message }}
-          repository: 666wcy/pikpakdown
+          #repository: 666wcy/pikpakdown
           # note you'll typically need to create a personal access token
           # with permissions to create releases in the other repo
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
